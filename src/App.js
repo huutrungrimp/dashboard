@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Covid-19 Dashboard
+          Covid-19 Dashboard in Ontario
         </p>
         <a
           className="App-link"
